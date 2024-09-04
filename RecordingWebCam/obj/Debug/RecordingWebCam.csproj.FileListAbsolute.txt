@@ -1,0 +1,17 @@
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.csproj.AssemblyReference.cache
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.Form1.resources
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.Properties.Resources.resources
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.csproj.GenerateResource.cache
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\RecordingWebCam.exe.config
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\RecordingWebCam.exe
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\RecordingWebCam.pdb
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.dll
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.Video.dll
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.xml
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.Video.xml
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\Recordin.25EEB7DF.Up2Date
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.exe
+C:\Users\abdie\Documents\RecordingWebCam\RecordingWebCam\obj\Debug\RecordingWebCam.pdb
